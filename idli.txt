@@ -1,0 +1,3 @@
+go to a shop
+get the product 
+eat
